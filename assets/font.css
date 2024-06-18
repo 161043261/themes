@@ -1,0 +1,12 @@
+:root {
+    --monospace: "Iosevka SS04", "Iosevka SS05", "Menlo", "PingFang SC", "Cascadia Code", "Microsoft YaHei", "Sarasa Mono SC";
+    --latex-font: var(--monospace);
+    --text-font: var(--monospace);
+    --title-font: var(--monospace);
+    --code-line-height: 1.6;
+    --text-line-height: 1.6;
+    --text-size: 14px;
+    --p-spacing: 0.8rem;
+    --toc-text-size: 1rem;
+    --file-tree-text-size: 1.1rem;
+}
