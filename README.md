@@ -12,3 +12,6 @@
 \end{itemize}
 \end{document}
 ```
+
+### Install
+Just rm Typora's theme directory, then clone this repository.
