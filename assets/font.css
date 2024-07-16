@@ -1,5 +1,5 @@
 :root {
-    --monospace: "Iosevka SS04", "Sarasa Mono SC", "Menlo", "PingFang SC", "Cascadia Code", "Microsoft YaHei";
+    --monospace: "Iosevka SS04", "Iosevka SS05", "Sarasa Mono SC", "Menlo", "PingFang SC", "Cascadia Code", "Microsoft YaHei";
     --latex-font: var(--monospace);
     --text-font: var(--monospace);
     --title-font: var(--monospace);
